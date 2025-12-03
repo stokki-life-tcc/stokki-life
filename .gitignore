@@ -1,0 +1,5 @@
+# Excluir a pasta de dependências do PHP/Composer
+vendor/
+
+# Excluir a pasta de dependências do Node.js/npm
+node_modules/
