@@ -3,3 +3,8 @@ vendor/
 
 # Excluir a pasta de dependências do Node.js/npm
 node_modules/
+
+# .env
+.env
+
+build/

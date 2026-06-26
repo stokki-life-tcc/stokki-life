@@ -1,4 +1,5 @@
 <?php
+/* Fazendo comentários sobre criar e cadastrar uma conta */
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
@@ -7,11 +8,14 @@ use Illuminate\Support\Facades\Auth;
 
 class AuthController extends Controller
 {
+    // Irá direcionar para a página de fazer login
     public function showLogin()
     {
         return view('auth.login');
     }
 
+    // se o usuário cadastrou a senha e o email para fazer login, terá acesso ao dashboard.
+    // caso não tenha cadastrado, será impedido de fazer login.
     public function login(Request $request)
     {
         $credentials = $request->only('email', 'password');
@@ -23,11 +27,15 @@ class AuthController extends Controller
         return back()->withErrors(['email' => 'Credenciais inválidas']);
     }
 
+
+    // página de registrar conta.
     public function showRegister()
     {
         return view('auth.register');
     }
 
+
+    /* Uma database em que o usuário cadastra o nome, email e senha. */
     public function register(Request $request)
     {
         $request->validate([
