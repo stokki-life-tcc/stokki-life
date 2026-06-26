@@ -1,4 +1,5 @@
 <?php
+/* Fazendo comentários sobre criar e cadastrar uma conta */
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
