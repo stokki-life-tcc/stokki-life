@@ -9,6 +9,9 @@ use Carbon\Carbon;
 
 class DashboardController extends Controller
 {
+    /* visão geral do dashboard como as vendas do dia, 
+    produtos que estão em baixo estoque para vender e 
+    a venda mensal dos produtos vendidos */
     public function index()
     {
         $vendasHoje = Venda::whereDate('data_venda', Carbon::today())->count();
