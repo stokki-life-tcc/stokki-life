@@ -9,6 +9,8 @@ return new class extends Migration
     /**
      * Run the migrations.
      */
+
+    // tabela contas_receber criada
     public function up()
 {
     Schema::create('contas_receber', function (Blueprint $table) {

@@ -9,6 +9,8 @@ return new class extends Migration
     /**
      * Run the migrations.
      */
+
+    // tabela folders criada
     public function up()
 {
     Schema::create('folders', function (Blueprint $table) {

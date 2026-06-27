@@ -6,6 +6,8 @@ use Illuminate\Support\Facades\Schema;
 
 return new class extends Migration
 {
+
+// tabela vendas criada
     public function up(): void
     {
         Schema::create('vendas', function (Blueprint $table) {
