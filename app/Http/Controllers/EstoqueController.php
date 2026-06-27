@@ -8,6 +8,7 @@ use App\Models\Produto;
 
 class EstoqueController extends Controller
 {
+    /* Sistema de criar pastas para cadastrar os produtos. */
     public function index()
     {
         // Carrega todas as pastas com seus produtos
@@ -27,7 +28,6 @@ class EstoqueController extends Controller
             $produto = Produto::where('nome', $request->nome)
                               ->where('folder_id', $request->folder_id)
                               ->first();
-
             if ($produto) {
                 // Soma quantidade
                 $produto->quantidade += $request->quantidade;
@@ -58,8 +58,6 @@ class EstoqueController extends Controller
                         : null,
                 ]);
             }
-
-            // 🚨 Se quiser no futuro: aqui pode entrar alerta por e-mail ou WhatsApp
         }
 
         return redirect()->route('estoque.index')->with('success', 'Cadastro realizado com sucesso!');
