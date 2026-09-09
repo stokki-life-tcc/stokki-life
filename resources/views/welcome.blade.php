@@ -50,7 +50,7 @@
             <nav class="flex gap-6 text-stokki-gray-text font-medium">
                 <a href="#funcionalidades" class="hover:text-stokki-green-dark">Funcionalidades</a>
                 <a href="#faq" class="hover:text-stokki-green-dark">FAQ</a>
-                <a href="#video" class="hover:text-stokki-green-dark">Apresentação</a>
+                <!-- <a href="#video" class="hover:text-stokki-green-dark">Apresentação</a> -->
                 <a href="{{ route('login') }}" class="hover:text-stokki-green-dark">Entrar</a>
             </nav>
         </div>
@@ -122,7 +122,7 @@
         </ul>
     </section>
 
-    <!-- Vídeo -->
+    <!-- Vídeo
     <section id="video" class="max-w-5xl mx-auto px-6 py-16">
         <h2 class="text-3xl font-bold text-stokki-green-dark text-center mb-6">Veja como funciona</h2>
         <p class="text-center text-stokki-gray-text mb-6">Assista ao vídeo e descubra como o Stokki-Life pode
@@ -132,6 +132,7 @@
                 title="Apresentação Stokki-Life" frameborder="0" allowfullscreen></iframe>
         </div>
     </section>
+    -->
 
     <!-- Rodapé -->
     <footer class="bg-white border-t border-stokki-gray-border py-6 text-center text-stokki-gray-text">
