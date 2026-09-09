@@ -45,7 +45,7 @@
             <div class="flex items-center gap-2">
                 <img src="{{ asset('images/LogoStokkiLife.png') }}" alt="Stokki-Life"
                     class="h-10 w-10 rounded-full object-cover">
-                <span class="font-bold text-stokki-green-dark text-lg">Stokki-Life</span>
+                <span class="font-bold text-stokki-green-dark text-lg">Stokki Life</span>
             </div>
             <nav class="flex gap-6 text-stokki-gray-text font-medium">
                 <a href="#funcionalidades" class="hover:text-stokki-green-dark">Funcionalidades</a>
@@ -59,7 +59,7 @@
     <!-- Hero -->
     <section class="bg-gradient-to-r from-stokki-green to-stokki-green-dark text-white py-32 text-center mt-20">
         <h1 class="text-5xl font-bold mb-4">Controle seu estoque de forma simples e eficiente</h1>
-        <p class="text-xl max-w-2xl mx-auto mb-6">Com o Stokki-Life, você organiza, vende e cresce em apenas alguns
+        <p class="text-xl max-w-2xl mx-auto mb-6">Com o Stokki Life, você organiza, vende e cresce em apenas alguns
             cliques.</p>
         <a href="{{ route('register') }}"
             class="px-8 py-3 bg-white text-stokki-green-dark font-semibold rounded-lg shadow hover:bg-stokki-gray-light transition">Quero
@@ -68,7 +68,7 @@
 
     <!-- Funcionalidades -->
     <section id="funcionalidades" class="max-w-7xl mx-auto px-6 py-16">
-        <h2 class="text-3xl font-bold text-stokki-green-dark text-center mb-12">Funcionalidades do Stokki-Life</h2>
+        <h2 class="text-3xl font-bold text-stokki-green-dark text-center mb-12">Funcionalidades do Stokki Life</h2>
         <div class="grid md:grid-cols-3 gap-8">
             <div class="bg-white p-6 rounded-lg shadow text-center">
                 <i data-lucide="package" class="w-8 h-8 text-stokki-green-dark mx-auto mb-3"></i>
