@@ -46,7 +46,7 @@
             <div class="flex items-center gap-3">
                 <img src="{{ asset('images/LogoStokkiLife.png') }}" alt="Stokki-Life"
                     class="h-10 w-10 rounded-full object-cover">
-                <h1 class="text-2xl font-bold text-stokki-green-dark">Stokki-Life</h1>
+                <h1 class="text-2xl font-bold text-stokki-green-dark">Stokki Life</h1>
             </div>
             <div class="flex items-center gap-4">
                 <!-- Botão de Configuração (Perfil) -->
