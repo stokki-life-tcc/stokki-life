@@ -45,7 +45,7 @@
     {{-- Cabeçalho com botão de voltar ao Dashboard --}}
     <header class="bg-white border-b border-stokki-gray-border shadow-sm sticky top-0 z-10">
         <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-            <h1 class="text-2xl font-bold text-stokki-green-dark">Stokki-Life</h1>
+            <h1 class="text-2xl font-bold text-stokki-green-dark">Stokki Life</h1>
             <a href="{{ route('dashboard') }}"
                 class="inline-flex items-center gap-2 text-stokki-gray-text hover:text-stokki-green-dark font-medium">
                 <i data-lucide="arrow-left" class="w-5 h-5"></i>
