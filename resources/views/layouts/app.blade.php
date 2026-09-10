@@ -166,7 +166,7 @@
             <div class="flex items-center gap-3">
                 <a href="{{ route('dashboard') }}" class="flex items-center gap-2">
                     <img src="{{ asset('images/LogoStokkiLife.png') }}" alt="Stokki-Life" class="h-8 w-8 rounded-full object-cover">
-                    <span class="font-bold text-stokki-green-dark">Stokki-Life</span>
+                    <span class="font-bold text-stokki-green-dark">Stokki Life</span>
                 </a>
             </div>
 
