@@ -136,8 +136,8 @@
 
     <!-- Rodapé -->
     <footer class="bg-white border-t border-stokki-gray-border py-6 text-center text-stokki-gray-text">
-        <p>&copy; {{ date('Y') }} - Stokki-Life. Todos os direitos reservados. | Versão 1.0</p>
-        <q class="mt-2 italic">O estoque representa dinheiro parado — gerencie com inteligência e cresça com
+        <p>&copy; {{ date('Y') }} - Stokki Life. Todos os direitos reservados.</p>
+        <q class="mt-2 italic">O estoque representa dinheiro parado. Gerencie com inteligência e cresça com
             segurança.</p>
     </footer>
 
