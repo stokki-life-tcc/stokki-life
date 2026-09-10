@@ -14,7 +14,7 @@ No estudo de caso em questão, analisamos a microempreendedora Alessandra Campos
 
 ## Hipótese
 
-A implementação do Stokki-Life em microempreendimentos visa tornar a gestão de estoque e vendas mais eficiente, reduzindo perdas por vencimento e descontrole, otimizando a reposição de produtos e oferecendo acesso em tempo real a dados comerciais. Essa melhoria operacional e informacional é vista como essencial para a sustentabilidade econômica, permitindo uma alocação mais inteligente do capital de giro e foco no crescimento dos negócios.
+A implementação do Stokki Life em microempreendimentos visa tornar a gestão de estoque e vendas mais eficiente, reduzindo perdas por vencimento e descontrole, otimizando a reposição de produtos e oferecendo acesso em tempo real a dados comerciais. Essa melhoria operacional e informacional é vista como essencial para a sustentabilidade econômica, permitindo uma alocação mais inteligente do capital de giro e foco no crescimento dos negócios.
 
 ## Tecnologias utilizadas
 
