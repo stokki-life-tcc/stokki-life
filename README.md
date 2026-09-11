@@ -10,7 +10,7 @@
 
 ## Solução: Stokki Life
 
-No estudo de caso em questão, analisamos a microempreendedora Alessandra Campos, que possui um espaço de vida saudável, onde oferece shakes e chás preparados a partir de produtos em pó. A principal dificuldade encontrada está no controle de estoque, tanto em relação ao prazo de validade dos produtos quanto à reposição de itens de maior saída.
+No estudo de caso, analisamos a microempreendedora Alessandra Campos, que possui um espaço de vida saudável, onde oferece shakes e chás preparados a partir de produtos em pó. A principal dificuldade encontrada está no controle de estoque, tanto em relação ao prazo de validade dos produtos quanto à reposição de itens de maior saída.
 
 ## Hipótese
 
