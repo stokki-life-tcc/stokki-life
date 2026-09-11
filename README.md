@@ -18,7 +18,9 @@ A implementação do Stokki Life em microempreendimentos visa tornar a gestão d
 
 ## Tecnologias Front-end e Back-end
 
-[![Techs](https://skillicons.dev/icons?i=html,css,tailwindcss,php,laravel,mysql&perline=3)](https://skillicons.dev)
+[![Techs Front-end](https://skillicons.dev/icons?i=html,css,tailwindcss)](https://skillicons.dev)
+
+[![Techs Back-end](https://skillicons.dev/icons?i=php,laravel,mysql&theme=light)](https://skillicons.dev)
 
 ## Instalação
 
