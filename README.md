@@ -16,15 +16,9 @@ No estudo de caso, analisamos a microempreendedora Alessandra Campos, que possui
 
 A implementação do Stokki Life em microempreendimentos visa tornar a gestão de estoque e vendas mais eficiente, reduzindo perdas por vencimento e descontrole, otimizando a reposição de produtos e oferecendo acesso em tempo real a dados comerciais. Essa melhoria operacional e informacional é vista como essencial para a sustentabilidade econômica, permitindo uma alocação mais inteligente do capital de giro e foco no crescimento dos negócios.
 
-## Tecnologias utilizadas
+## Tecnologias Front-end e Back-end
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-020617?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)
-![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/composer-white?style=for-the-badge&logo=composer&logoColor=black)
-![Xampp](https://img.shields.io/badge/xampp-orange?style=for-the-badge&logo=xampp&logoColor=white)
+[![Techs](https://skillicons.dev/icons?i=html,css,tailwindcss,php,laravel,mysql&perline=3)](https://skillicons.dev)
 
 ## Instalação
 
